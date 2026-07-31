@@ -1,0 +1,10 @@
+# Local environment secrets
+.env
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+outputs/
+service-account.json
+*.log
